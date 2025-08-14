@@ -40,9 +40,9 @@ Love cracking tactical puzzles and applying strategic thinking — whether it’
 
 ## 🤝 Let’s Connect
 
-- 📧 **Email:** [your.email@example.com]  
+- 📧 **Email:** [suyogdesai1105@gmail.com]  
 - 💼 **LinkedIn:** [linkedin.com/in/suyog-desai](https://linkedin.com/in/suyog-desai)  
-- ♟️ **Chess.com:** [Your Chess.com profile link]  
+- ♟️ **Chess.com:** [[chess.com/profile](https://www.chess.com/member/kaata-laga)]  
 
 ---
 
