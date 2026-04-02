@@ -49,7 +49,7 @@
 | [🚗 Uber Data Analytics](https://github.com/Suyog-Desai/uber-data-analytics) | End-to-end ETL pipeline tracking utilization, capacity, and demand trends across 1M+ ride records | Python · GCP · BigQuery · Looker |
 | [🛒 Sales & Customer Dashboard](https://github.com/Suyog-Desai/sales-customer-dashboard) | Multi-page BI dashboard with RFM segmentation, revenue forecasting and operational planning insights | Tableau · SQL · Excel |
 | [☁️ Cloud AI Analytics Deployment](https://github.com/Suyog-Desai/cloud-analytics-deployment) | Production-grade ML API on AWS with 3-stage CI/CD pipeline — test, build, deploy | AWS · Docker · GitHub Actions |
-| [🗄️ Sakila Cloud Analytics Pipeline](https://github.com/Suyog-Desai/sakila-db-migration) | MySQL → PostgreSQL migration with performance optimization and analytics visualization layer | MySQL · PostgreSQL · Python |
+| [🗄️ Sakila Cloud Analytics Pipeline](https://github.com/Suyog-Desai/sakila-db-migration) | MySQL → Aurora migration with performance optimization and analytics visualization layer | MySQL · Python |
 | [📚 Book Recommendation System](https://github.com/Suyog-Desai/book-recommendation-system) | Hybrid ML recommendation engine combining collaborative and content-based filtering on 1M+ ratings | Python · scikit-learn · Pandas |
 
 ---
