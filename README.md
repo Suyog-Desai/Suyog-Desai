@@ -109,7 +109,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-suyogdesai.framer.website-000000?style=flat&logo=framer)](https://suyogdesai.framer.website)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suyog_Desai-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/suyog-desai)
-[![Tableau](https://img.shields.io/badge/Tableau_Public-Dashboards-E97627?style=flat&logo=tableau&logoColor=white)](YOUR_TABLEAU_URL_HERE)
+[![Tableau](https://img.shields.io/badge/Tableau_Public-Dashboards-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/suyog.desai/vizzes)
 [![Email](https://img.shields.io/badge/Email-suyogdesai1105@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suyogdesai1105@gmail.com)
 
 ---
