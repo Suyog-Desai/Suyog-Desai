@@ -111,6 +111,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suyog_Desai-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/suyog-desai)
 [![Tableau](https://img.shields.io/badge/Tableau_Public-Dashboards-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/suyog.desai/vizzes)
 [![Email](https://img.shields.io/badge/Email-suyogdesai1105@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suyogdesai1105@gmail.com)
+<!-- CHESS-RATING:START -->
+[![Chess.com Rapid](https://img.shields.io/badge/Chess.com_Rapid-1247-81B64C?style=flat&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/kaata-laga)
+<!-- CHESS-RATING:END -->
 
 ---
 

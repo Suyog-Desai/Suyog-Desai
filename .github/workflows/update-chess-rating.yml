@@ -1,0 +1,44 @@
+name: Update Chess.com Rapid Rating
+
+on:
+  schedule:
+    # 12:00 UTC = 5:00 AM Phoenix (MST, UTC-7, no DST in Arizona)
+    - cron: "0 12 * * *"
+  workflow_dispatch: {}  # manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: chess-rating
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update README with rapid rating
+        env:
+          CHESS_USERNAME: kaata-laga
+          README_PATH: README.md
+        run: python scripts/update_chess_rating.py
+
+      - name: Commit & push if changed
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore(readme): update chess.com rapid rating"
+            git push
+          else
+            echo "No change to README — skipping commit."
+          fi
