@@ -100,7 +100,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyog-Desai&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Suyog-Desai&theme=default&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Suyog-Desai&theme=default&hide_border=true" height="160"/>
 </p>
 
 ---
