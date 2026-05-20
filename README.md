@@ -62,6 +62,14 @@
 
 ## 💼 Work Experience
 
+**Data Engineer - DataSync Solutions** *(Jul 2025 to Present · Dallas, TX)*  
+`Python` `SQL` `Snowflake` `AWS` `Apache Airflow` `dbt` `ETL`
+- Developed ELT pipelines on Snowflake and AWS Glue processing **20M+ records daily**, cutting average data **load time by 30%** and enabling same-day analytics delivery for 4 business units.  
+- Reduced manual pipeline intervention by 35% by scheduling and monitoring data workflows through Apache Airflow and dbt, **improving on-time SLA delivery from 78% to 96%.** 
+- Translated requirements from analytics and engineering stakeholders into star schema dimensional models, **reducing report query execution time by 28% across 6 downstream dashboards.**  
+- Established row-level data validation checks and anomaly detection rules within Snowflake, catching 3 critical data quality issues before they reached production BI environments.  
+- Configured GitHub Actions workflows for automated deployment of dbt transformation scripts across dev, staging, and production, reducing release cycle time from 3 days to same-day. 
+
 **Data Analyst - Amdocs** *(Feb 2022 to Dec 2023 · Pune, India)*  
 `SQL` `Python` `Power BI` `Snowflake` `AWS` `A/B Testing` `ETL`
 - Analyzed **15M+ telecom subscriber records** to identify trends supporting forecasting, capacity planning, and performance tracking
